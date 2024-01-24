@@ -17,7 +17,7 @@ function Overview() {
                 </p>
                 <p className="truncate text-base font-bold sm:text-2xl"><span className="animate-price-tick-rise">$1,208,314.20</span></p>
             </div>
-            <div className="md:border-r-2 border-white border-opacity-50 m-2 p-2">
+            <div className="border-r-2 border-white border-opacity-50 m-2 p-2">
                 <p className='mb-1 text-sm font-semibold'>
                     NFT Asset
                 </p>
